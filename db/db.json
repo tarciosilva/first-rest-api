@@ -3,7 +3,7 @@
         "id": 1,
         "tratament": "Clareamento",
         "description": "O clareamento dental é um procedimento estético realizado para clarear a cor dos dentes, tornando-os mais brancos e brilhantes. É uma das opções mais populares para melhorar a aparência do sorriso.Existem duas formas principais de realizar o clareamento dental: o clareamento realizado em consultório e o clareamento caseiro.",
-        "image": "/images/clareamento.png"
+        "image": "first-rest-api/images/clareamento.png"
     },
     {
         "id": 2,

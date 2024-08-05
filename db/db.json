@@ -3,37 +3,37 @@
         "id": 1,
         "tratament": "Clareamento",
         "description": "O clareamento dental é um procedimento estético realizado para clarear a cor dos dentes, tornando-os mais brancos e brilhantes. É uma das opções mais populares para melhorar a aparência do sorriso.Existem duas formas principais de realizar o clareamento dental: o clareamento realizado em consultório e o clareamento caseiro.",
-        "image": "/images/clareamento.png"
+        "image": "https://raw.githubusercontent.com/tarciosilva/first-rest-api/main/images/clareamento.png"
     },
     {
         "id": 2,
         "tratament": "Profilaxia",
         "description": "A profilaxia dental é um procedimento preventivo realizado por profissionais deodontologia para manter asaúde bucal e prevenir problemas dentários. Também conhecida como limpeza dental,consiste na remoção deplaca bacteriana, tártaro e manchas dos dentes.",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/tarciosilva/first-rest-api/main/images/profilaxia.png"
     },
     {
         "id": 3,
         "tratament": "Facetas",
         "description": "As facetas dentárias em resina são uma opção estética popular para melhorar aaparênciados dentes. Elas são finas camadas de resinacomposta que são aplicadas sobre a superfície frontal dos dentes, a fim de corrigirimperfeições estéticas, como manchas, descoloração,formatos irregulares, espaçamentos, pequenas fraturas ou dentes desalinhados.",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/tarciosilva/first-rest-api/main/images/facetas.png"
     },
     {
         "id": 4,
         "tratament": "Restauração",
         "description": "A restauração dentária é um procedimento odontológico realizado para reparar umdentedanificado ou com cárie, restaurando sua forma, função e estruturaadequadas. A restauração é necessária quando há uma cavidade, fratura, desgaste ouperdade parte do dente devido a diferentes motivos, como cárie,trauma ou desgaste excessivo.",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/tarciosilva/first-rest-api/main/images/restauracao.png"
     },
     {
         "id": 5,
         "tratament": "Exodontia",
         "description": "A exodontia é um procedimento cirúrgico odontológico que envolve a remoção de umdenteda boca. Geralmente, a exodontia é realizada quando um dente está comprometido oudanificado deforma irreversível e não pode ser restaurado ou tratado de outras maneiras.",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/tarciosilva/first-rest-api/main/images/exodontia.png"
     },
     {
         "id": 6,
         "tratament": "Prótese",
         "description": "A prótese dentária é uma estrutura utilizada para reparar os dentes ousubstituir um ou mais dentes que estão em falta, promovendo a restauração daautoestimae melhorando a mastigação e fala. Ela pode ser indicada em diversos casos, comoperda dedentes por cáries, doenças gengivais, traumatismos ou outras condições.",
-        "image": ""
+        "image": "https://raw.githubusercontent.com/tarciosilva/first-rest-api/main/images/protese.png"
     },
     {
         "id": 7,

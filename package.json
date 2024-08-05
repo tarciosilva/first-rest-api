@@ -1,0 +1,20 @@
+{
+  "name": "first_server_rest_api",
+  "version": "1.0.0",
+  "description": "rest api for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "rest",
+    "api"
+  ],
+  "author": "tsilva.dev",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

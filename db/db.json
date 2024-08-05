@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "tratament": "Clareamento",
+        "description": "O clareamento dental é um procedimento estético realizado para clarear a cor dos dentes, tornando-os mais brancos e brilhantes. É uma das opções mais populares para melhorar a aparência do sorriso.Existem duas formas principais de realizar o clareamento dental: o clareamento realizado em consultório e o clareamento caseiro.",
+        "image": "/images/clareamento.png"
+    },
+    {
+        "id": 2,
+        "tratament": "Profilaxia",
+        "description": "A profilaxia dental é um procedimento preventivo realizado por profissionais deodontologia para manter asaúde bucal e prevenir problemas dentários. Também conhecida como limpeza dental,consiste na remoção deplaca bacteriana, tártaro e manchas dos dentes.",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "tratament": "Facetas",
+        "description": "As facetas dentárias em resina são uma opção estética popular para melhorar aaparênciados dentes. Elas são finas camadas de resinacomposta que são aplicadas sobre a superfície frontal dos dentes, a fim de corrigirimperfeições estéticas, como manchas, descoloração,formatos irregulares, espaçamentos, pequenas fraturas ou dentes desalinhados.",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "tratament": "Restauração",
+        "description": "A restauração dentária é um procedimento odontológico realizado para reparar umdentedanificado ou com cárie, restaurando sua forma, função e estruturaadequadas. A restauração é necessária quando há uma cavidade, fratura, desgaste ouperdade parte do dente devido a diferentes motivos, como cárie,trauma ou desgaste excessivo.",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "tratament": "Exodontia",
+        "description": "A exodontia é um procedimento cirúrgico odontológico que envolve a remoção de umdenteda boca. Geralmente, a exodontia é realizada quando um dente está comprometido oudanificado deforma irreversível e não pode ser restaurado ou tratado de outras maneiras.",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "tratament": "Prótese",
+        "description": "A prótese dentária é uma estrutura utilizada para reparar os dentes ousubstituir um ou mais dentes que estão em falta, promovendo a restauração daautoestimae melhorando a mastigação e fala. Ela pode ser indicada em diversos casos, comoperda dedentes por cáries, doenças gengivais, traumatismos ou outras condições.",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "tratament": "Hotest Super",
+        "description": "Lorem ipsum",
+        "image": "Ipsis Litteris Lorem ipsum"
+    },
+    {
+        "id": 8,
+        "tratament": "Hotest Super more super",
+        "description": "Lorem ipsum",
+        "image": "/images/clareamento.png"
+    }
+]
